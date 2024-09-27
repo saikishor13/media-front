@@ -1,0 +1,1 @@
+export const server_url = 'https://media-app-88jg.onrender.com/'
